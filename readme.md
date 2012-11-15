@@ -1,4 +1,4 @@
-![html5-noise-hack](https://github.com/victusfate/html5-noise-hack/raw/gh-pages/images/html-noise-hack.png)
+![html5-noise-hack](https://raw.github.com/victusfate/html5-noise-hack/gh-pages/images/html5-noise-hack.png)
 html5-noise-hack
 ===
 
