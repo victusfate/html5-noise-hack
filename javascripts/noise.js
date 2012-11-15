@@ -12,11 +12,11 @@
 
   noiseVals = [NNoise];
 
-  NWalkDistance = 14;
+  NWalkDistance = 30;
 
   NMinStep = 1;
 
-  NWalk = 200;
+  NWalk = 2000;
 
   noiseWalk = [NWalk];
 
